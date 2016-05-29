@@ -1,4 +1,3 @@
-//Obadiah Obare(bdh).
 #include <iostream>
 #include <fstream>
 #include <vector>
